@@ -1,0 +1,8 @@
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\bin\Debug\consoleMQTTClient.exe.config
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\obj\Debug\consoleMQTTClient.csprojResolveAssemblyReference.cache
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\bin\Debug\consoleMQTTClient.exe
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\bin\Debug\consoleMQTTClient.pdb
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\bin\Debug\M2Mqtt.Net.dll
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\bin\Debug\M2Mqtt.Net.pdb
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\obj\Debug\consoleMQTTClient.exe
+D:\VS\Projects\consoleMQTTClient\consoleMQTTClient\obj\Debug\consoleMQTTClient.pdb
